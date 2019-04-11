@@ -1,0 +1,588 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+  <node id='-102238' action='modify' lat='10.11439' lon='-13.97641'>
+    <tag k='nom' v='MAWONDE' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102239' action='modify' lat='10.02352' lon='-13.91102'>
+    <tag k='nom' v='GANDOYA' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102240' action='modify' lat='10.09833' lon='-13.9948'>
+    <tag k='nom' v='MADINA1' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102241' action='modify' lat='10.10651' lon='-13.99504'>
+    <tag k='nom' v='KONDEYIRA' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102242' action='modify' lat='10.16423' lon='-14.02488'>
+    <tag k='nom' v='GUEMEYIRE' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102243' action='modify' lat='10.14974' lon='-14.02674'>
+    <tag k='nom' v='KHOUMBADANTA' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102244' action='modify' lat='10.04697' lon='-13.92255'>
+    <tag k='nom' v='KANAGBAN' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102245' action='modify' lat='10.03935' lon='-13.92454'>
+    <tag k='nom' v='GNOFIYA' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102246' action='modify' lat='10.04229' lon='-13.88582'>
+    <tag k='nom' v='GANGANTA' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102247' action='modify' lat='10.05055' lon='-13.88722'>
+    <tag k='nom' v='TANENE WOTOGLON' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102248' action='modify' lat='10.04918' lon='-13.91016'>
+    <tag k='nom' v='BAWOUYA' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102249' action='modify' lat='10.07434' lon='-13.98462'>
+    <tag k='nom' v='TINTIMA' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102250' action='modify' lat='10.14726' lon='-14.00857'>
+    <tag k='nom' v='YENGUISSA LABAYADI' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102251' action='modify' lat='10.13682' lon='-13.9953'>
+    <tag k='nom' v='YENGUISSA FOULAYA' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102252' action='modify' lat='10.10697' lon='-13.89797'>
+    <tag k='nom' v='KONFOYA' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102253' action='modify' lat='10.10323' lon='-13.89399'>
+    <tag k='nom' v='DABONFOUGUE' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102254' action='modify' lat='10.00057' lon='-13.956'>
+    <tag k='nom' v='DIMGBAYA' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102255' action='modify' lat='10.01007' lon='-13.93898'>
+    <tag k='nom' v='KATANDE' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102256' action='modify' lat='10.11629' lon='-14.01033'>
+    <tag k='nom' v='YENGUISSA MOKE' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102257' action='modify' lat='10.11039' lon='-14.01598'>
+    <tag k='nom' v='CHENAL YENGUISSA' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102258' action='modify' lat='10.04851' lon='-14.0622'>
+    <tag k='nom' v='TOROFILY' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102259' action='modify' lat='10.13455' lon='-14.04162'>
+    <tag k='nom' v='CHENAL KHOUMBADANTA' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102260' action='modify' lat='10.0327' lon='-13.9853'>
+    <tag k='nom' v='CHENAL GORET' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102261' action='modify' lat='10.03893' lon='-13.99213'>
+    <tag k='nom' v='CHENAL GUIAPET' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102262' action='modify' lat='10.00247' lon='-13.9856'>
+    <tag k='nom' v='N&apos;SOUPOUROU' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102263' action='modify' lat='10.02412' lon='-14.00828'>
+    <tag k='nom' v='DUMOMPO' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102264' action='modify' lat='10.02639' lon='-13.95183'>
+    <tag k='nom' v='CHENAL BALANCERA' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102265' action='modify' lat='10.10598' lon='-14.00417'>
+    <tag k='nom' v='CHENAL COLON' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102266' action='modify' lat='10.09791' lon='-14.0069'>
+    <tag k='nom' v='CHENAL DOUMABELEGUE' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102267' action='modify' lat='10.0597' lon='-14.02083'>
+    <tag k='nom' v='CHENAL TABETA' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102268' action='modify' lat='10.051' lon='-14.01666'>
+    <tag k='nom' v='PETITCHENAL' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102269' action='modify' lat='10.04008' lon='-13.95396'>
+    <tag k='nom' v='CHENAL DE WAWA' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102270' action='modify' lat='10.05288' lon='-13.97475'>
+    <tag k='nom' v='CHENAL TINTIMA' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102271' action='modify' lat='10.07559' lon='-14.01861'>
+    <tag k='nom' v='CHENAL KONDEYIRE' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102272' action='modify' lat='10.07285' lon='-14.00669'>
+    <tag k='nom' v='CHENAL SUIMI' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102273' action='modify' lat='10.04667' lon='-14.01567'>
+    <tag k='nom' v='CHENAL YANGOYA' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102274' action='modify' lat='10.03088' lon='-14.00297'>
+    <tag k='nom' v='DUMOMPO' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102275' action='modify' lat='10.02504' lon='-14.01164'>
+    <tag k='nom' v='KROWANSAN' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102276' action='modify' lat='10.11629' lon='-14.01033'>
+    <tag k='nom' v='YENGUISSA MOKE' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102277' action='modify' lat='10.11039' lon='-14.01598'>
+    <tag k='nom' v='CHENAL YENGUISSA' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102278' action='modify' lat='10.01882' lon='-13.95949'>
+    <tag k='nom' v='KOTEYA DEMBISSA' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102279' action='modify' lat='10.01925' lon='-13.95309'>
+    <tag k='nom' v='BALANCIRA' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102280' action='modify' lat='10.19148' lon='-13.94505'>
+    <tag k='nom' v='NINGUEYA' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102281' action='modify' lat='10.2068' lon='-13.95307'>
+    <tag k='nom' v='KAMATAMBAYA' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102282' action='modify' lat='10.25275' lon='-13.96005'>
+    <tag k='nom' v='YIMMAYA' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102283' action='modify' lat='10.28746' lon='-13.95937'>
+    <tag k='nom' v='FARENYA' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102284' action='modify' lat='10.30034' lon='-13.96416'>
+    <tag k='nom' v='FOUNNE KHOURE' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102285' action='modify' lat='10.28866' lon='-13.98242'>
+    <tag k='nom' v='SAMBAYA' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102286' action='modify' lat='10.28991' lon='-13.99256'>
+    <tag k='nom' v='BANGALAN' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102287' action='modify' lat='10.30365' lon='-14.04805'>
+    <tag k='nom' v='SEKHEBADE' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102288' action='modify' lat='10.28254' lon='-13.96134'>
+    <tag k='nom' v='FAREINGHIA' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102289' action='modify' lat='10.28254' lon='-13.96134'>
+    <tag k='nom' v='FAREINGHIA' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102290' action='modify' lat='10.25882' lon='-13.97805'>
+    <tag k='nom' v='SOUMBOUROU' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102291' action='modify' lat='10.25567' lon='-13.9658'>
+    <tag k='nom' v='LOUGANME' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102292' action='modify' lat='10.26068' lon='-13.96316'>
+    <tag k='nom' v='LALAFANYEYA' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102293' action='modify' lat='10.30007' lon='-13.9645'>
+    <tag k='nom' v='FOUNDAKHOURE' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102294' action='modify' lat='10.28863' lon='-13.98226'>
+    <tag k='nom' v='SAMBAYA' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102295' action='modify' lat='10.28972' lon='-13.99227'>
+    <tag k='nom' v='BANGALAN' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102296' action='modify' lat='10.22161' lon='-13.99285'>
+    <tag k='nom' v='CHENAL YIMMAYA' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102297' action='modify' lat='10.21909' lon='-13.96978'>
+    <tag k='nom' v='CHENAL DIMINKA' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102298' action='modify' lat='10.21049' lon='-13.9975'>
+    <tag k='nom' v='CHENAL RIO PONGO' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102299' action='modify' lat='10.22209' lon='-13.99685'>
+    <tag k='nom' v='CHENAL FAREINGHIA' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102300' action='modify' lat='10.24534' lon='-13.99578'>
+    <tag k='nom' v='CHENAL SOUMBOUROU' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102301' action='modify' lat='10.21049' lon='-13.9975'>
+    <tag k='nom' v='CHENAL RIO PONGO' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102302' action='modify' lat='10.22209' lon='-13.99685'>
+    <tag k='nom' v='CHENAL FAREINGHIA' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102303' action='modify' lat='10.24534' lon='-13.99578'>
+    <tag k='nom' v='CHENAL SOUMBOUROU' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102304' action='modify' lat='10.20671' lon='-13.95298'>
+    <tag k='nom' v='KAMATAMBAYA' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102305' action='modify' lat='10.22488' lon='-13.98487'>
+    <tag k='nom' v='BARALANDE' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102306' action='modify' lat='10.2165' lon='-14.17998'>
+    <tag k='nom' v='WALI33-' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102307' action='modify' lat='10.21339' lon='-14.1786'>
+    <tag k='nom' v='WALI100' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102308' action='modify' lat='10.21406' lon='-14.17926'>
+    <tag k='nom' v='WALI101' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102309' action='modify' lat='9.83529' lon='-13.71103'>
+    <tag k='nom' v='KAN113-' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102310' action='modify' lat='10.17413' lon='-13.96375'>
+    <tag k='nom' v='SOUMBOUYADI MADINA' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102311' action='modify' lat='9.79373' lon='-13.52545'>
+    <tag k='nom' v='DUBREKA' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102312' action='modify' lat='9.80673' lon='-13.73607'>
+    <tag k='nom' v='ARABANTI' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102313' action='modify' lat='9.99281' lon='-13.65125'>
+    <tag k='nom' v='GOMEZIA' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102314' action='modify' lat='9.93366' lon='-13.60713'>
+    <tag k='nom' v='KHOLAYA' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102315' action='modify' lat='9.81442' lon='-13.56062'>
+    <tag k='nom' v='DANTAFORE' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102316' action='modify' lat='9.83182' lon='-13.55659'>
+    <tag k='nom' v='GANDOBALAYA' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102317' action='modify' lat='9.81862' lon='-13.52411'>
+    <tag k='nom' v='MANSOMBOMBO' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102318' action='modify' lat='9.89427' lon='-13.6887'>
+    <tag k='nom' v='CKR1414' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102319' action='modify' lat='9.16164' lon='-13.16456'>
+    <tag k='nom' v='KAGBOUNTO' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102320' action='modify' lat='9.13214' lon='-13.23175'>
+    <tag k='nom' v='KEBENDO' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102321' action='modify' lat='10.16551' lon='-14.0261'>
+    <tag k='nom' v='GUEMEYIRE10' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102322' action='modify' lat='10.14866' lon='-14.03224'>
+    <tag k='nom' v='GUEMEYIRE5' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102323' action='modify' lat='10.11697' lon='-13.95146'>
+    <tag k='nom' v='KALEMA1' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102324' action='modify' lat='10.10167' lon='-13.96288'>
+    <tag k='nom' v='KALEMA4' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102325' action='modify' lat='10.13538' lon='-13.97269'>
+    <tag k='nom' v='KELEYA1' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102326' action='modify' lat='10.11341' lon='-13.97751'>
+    <tag k='nom' v='MAWONDE1' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102327' action='modify' lat='10.09221' lon='-13.98804'>
+    <tag k='nom' v='WASSIA1' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102328' action='modify' lat='10.13622' lon='-14.00986'>
+    <tag k='nom' v='YINGUISSA2' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102329' action='modify' lat='10.12905' lon='-13.98939'>
+    <tag k='nom' v='YINGUISSA6' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102330' action='modify' lat='10.02447' lon='-13.95021'>
+    <tag k='nom' v='BALANSERA3' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102331' action='modify' lat='10.04173' lon='-13.97293'>
+    <tag k='nom' v='GUIAPET2' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102332' action='modify' lat='9.98541' lon='-13.94278'>
+    <tag k='nom' v='SINENE3' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102333' action='modify' lat='9.99572' lon='-13.94968'>
+    <tag k='nom' v='SINENE6' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102334' action='modify' lat='10.04327' lon='-14.0164'>
+    <tag k='nom' v='TOUGUISOUROU1' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102335' action='modify' lat='10.04345' lon='-14.01716'>
+    <tag k='nom' v='TOUGUISOUROU2' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102336' action='modify' lat='10.03205' lon='-13.97998'>
+    <tag k='nom' v='YANGOYA7' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102337' action='modify' lat='10.12165' lon='-14.01741'>
+    <tag k='nom' v='YINGUISSA1' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102338' action='modify' lat='10.18334' lon='-14.05914'>
+    <tag k='nom' v='GUIAMA1' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102339' action='modify' lat='10.22616' lon='-14.14858'>
+    <tag k='nom' v='KISSING1' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102340' action='modify' lat='10.2905' lon='-14.19254'>
+    <tag k='nom' v='KOSSING3' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102341' action='modify' lat='10.17392' lon='-14.02928'>
+    <tag k='nom' v='DEBARCADERE' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102342' action='modify' lat='10.05425' lon='-13.99693'>
+    <tag k='nom' v='GUIAPE B1' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102343' action='modify' lat='10.0684' lon='-13.04544'>
+    <tag k='nom' v='SOTI B1' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102344' action='modify' lat='10.05593' lon='-13.00565'>
+    <tag k='nom' v='SUIMI B1' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102345' action='modify' lat='10.02308' lon='-13.97272'>
+    <tag k='nom' v='YANGOYA B1' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102346' action='modify' lat='9.81265' lon='-13.58692'>
+    <tag k='nom' v='DE BALANTE' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102347' action='modify' lat='9.81521' lon='-13.56168'>
+    <tag k='nom' v='DE KERATAGUI' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102348' action='modify' lat='9.86016' lon='-13.54686'>
+    <tag k='nom' v='LIMBITA' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102349' action='modify' lat='9.4229' lon='-13.1818'>
+    <tag k='nom' v='KHANKHET' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102350' action='modify' lat='9.38955' lon='-13.21148'>
+    <tag k='nom' v='LAKHOUSSA' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102351' action='modify' lat='9.09377' lon='-13.11678'>
+    <tag k='nom' v='MORIKANIA' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102352' action='modify' lat='9.16164' lon='-13.16456'>
+    <tag k='nom' v='KAGBOUNTO' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102353' action='modify' lat='9.13214' lon='-13.23175'>
+    <tag k='nom' v='KEBENDO' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+  <node id='-102354' action='modify' lat='9.39154' lon='-13.33273'>
+    <tag k='nom' v='KHANKHA' />
+    <tag k='place' v='hamlet' />
+    <tag k='source' v='PNLTHA-LAV;survey' />
+  </node>
+</osm>
